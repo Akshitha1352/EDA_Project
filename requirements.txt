@@ -1,7 +1,7 @@
-      REQURIED
-stream lit
+streamlit
 pandas
-NumPy
+numpy
 matplotlib
 seaborn
-plotly.express
+plotly
+openpyxl
