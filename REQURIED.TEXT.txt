@@ -1,0 +1,7 @@
+      REQURIED.TEXT
+stream lit
+pandas
+NumPy
+matplotlib
+seaborn
+plotly
