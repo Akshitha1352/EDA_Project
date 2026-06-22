@@ -1,7 +1,7 @@
-      REQURIED.TEXT
-stream lit
+streamlit
 pandas
-NumPy
+numpy
 matplotlib
 seaborn
 plotly
+openpyxl
