@@ -1,4 +1,4 @@
-      REQURIED.TEXT
+      REQURIED
 stream lit
 pandas
 NumPy
